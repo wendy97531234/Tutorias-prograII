@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Tutorias-prograII\Variables\Variables\obj\Debug\net8.0\ref\Variables.dll
